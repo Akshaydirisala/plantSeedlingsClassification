@@ -13,7 +13,7 @@ Humans while cultivating can easily recognize plant vs weed but it is attached w
 
 Dataset is obtained from:https://www.kaggle.com/c/plant-seedlings-classification
 
-The dataset comprises 12 plant species:
+The dataset comprises 12 plant species :
 1)Black-grass                                 	7) Loose Silky-bent
 2)Charlock			8) Maize
 3)Cleavers			9) Scentless Mayweed
