@@ -42,6 +42,7 @@ We would load all the 12 plant species images and see how images will be loaded,
 Tools: Python,Jupyter notebook,pandas,numpy,keras,tensorflow,seaborn and will add if any libraries that I will use.
 
 
+
 References
 [1] Kaggle 
 https://www.kaggle.com/c/plant-seedlings-classification
@@ -55,7 +56,7 @@ http://cweteseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.429.1195&rep=rep1&type
 
 
 
-### Building a Image Classifier capable of determining a plant's species among 12 different species from a photo.
+# Building a Image Classifier capable of determining a plant's species among 12 different species from a photo.
 ####points discussing
 ###1)Approach
 ####2)Supervised or unsupervised classification
