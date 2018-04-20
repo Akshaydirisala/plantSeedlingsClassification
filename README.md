@@ -6,7 +6,7 @@ One major problem faced in agriculture production is the effect of weeds on the 
 
 Our motivation and interest in challenging this task is the thought, where we can draw a line between plant seedlings and weed seedlings. This approach can make any machinery to easily detect the weed and remove it effectively without disturbing the plants growth leading to increased productivity.
 
-# Problem Statement
+### Problem Statement
 Humans while cultivating can easily recognize plant vs weed but it is attached with lot of human work power, so making machines to learn these techniques we can save time and cost. The ability to differentiate weed from plant so effectively can mean better crop yields and better stewardship of the environment. The problem is to create a classifier which can determine a plant species from a photo.
 
 # Datasets and Inputs
@@ -14,11 +14,11 @@ Humans while cultivating can easily recognize plant vs weed but it is attached w
 Dataset is obtained from:https://www.kaggle.com/c/plant-seedlings-classification
 
 The dataset comprises 12 plant species :
-1)Black-grass                                 	7) Loose Silky-bent
+1)Black-grass                 	7) Loose Silky-bent
 2)Charlock			8) Maize
 3)Cleavers			9) Scentless Mayweed
 4)Common Chickweed		10) Shepherds Purse
-5)Common wheat		11) Small-flowered Cranesbill
+5)Common wheat		  	11) Small-flowered Cranesbill
 6)Fat Hen			12) Sugar beet
 File descriptions
 train.csv - the training set, with plant species organized by folder
@@ -32,7 +32,7 @@ we will develop a CNN classifier which will give high F1 score and try to reduce
 
 	        Weed	Not weed
 Weed	    Correct	Type1
-Not weed  Type2	Correct
+Not weed    Type2	Correct
 
 # Evaluation Metrices
 As this project data is considered from the Kaggle, F1 score can be considered as an evaluation metric. we will consider F1 score on my testing dataset. Higher the F1 score better the model
