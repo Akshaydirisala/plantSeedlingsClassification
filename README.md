@@ -1,4 +1,5 @@
-# Using Neural Networks to do classification of plant seedlings
+#Incorporating Machine learning with Artificial intelligence
+ Using Neural Networks to do classification of Images of Mango tree Plantations
 
 Agriculture is the art and science of cultivating the soil, growing crops and raising livestock. Agriculture is the backbone of every country’s economy and development. In the current modern society, it is our duty and concern to give importance to agriculture and its improvement as the nature resources are diminishing day to day. Researchers in modern agriculture are using machine learning algorithms at greater scale and helping make more accurate, real-time predictions. Modern agriculture has the potential to discover even more ways to achieve higher productions, conserve water, use nutrients and energy more efficiently, and adapt to climate change.
 
@@ -6,7 +7,7 @@ One major problem faced in agriculture production is the effect of weeds on the 
 
 Our motivation and interest in challenging this task is the thought, where we can draw a line between plant seedlings and weed seedlings. This approach can make any machinery to easily detect the weed and remove it effectively without disturbing the plants growth leading to increased productivity.
 
-### Problem Statement
+## Problem Statement
 Humans while cultivating can easily recognize plant vs weed but it is attached with lot of human work power, so making machines to learn these techniques we can save time and cost. The ability to differentiate weed from plant so effectively can mean better crop yields and better stewardship of the environment. The problem is to create a classifier which can determine a plant species from a photo.
 
 # Datasets and Inputs
@@ -19,7 +20,11 @@ The dataset comprises 12 plant species :
 3)Cleavers			9) Scentless Mayweed
 4)Common Chickweed		10) Shepherds Purse
 5)Common wheat		  	11) Small-flowered Cranesbill
-6)Fat Hen			12) Sugar beet
+6)Powdery Mildew			12) Cephaleuros virescens causes a leaf spot disease
+Red Rust
+SOURCE
+Red rust
+
 File descriptions
 train.csv - the training set, with plant species organized by folder
 test.csv - the test set, you need to predict the species of each image.
