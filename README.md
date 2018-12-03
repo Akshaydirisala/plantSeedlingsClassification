@@ -1,6 +1,3 @@
-#Incorporating Machine learning with Artificial intelligence
- Using Neural Networks to do classification of Images of Mango tree Plantations.
- #start working
 
 Agriculture is the art and science of cultivating the soil, growing crops and raising livestock. Agriculture is the backbone of every country’s economy and development. In the current modern society, it is our duty and concern to give importance to agriculture and its improvement as the nature resources are diminishing day to day. Researchers in modern agriculture are using machine learning algorithms at greater scale and helping make more accurate, real-time predictions. Modern agriculture has the potential to discover even more ways to achieve higher productions, conserve water, use nutrients and energy more efficiently, and adapt to climate change.
 
